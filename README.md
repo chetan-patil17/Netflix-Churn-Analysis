@@ -151,4 +151,8 @@ A final console summary reporting:
 - ⚠️ Annualized revenue at risk
 - 🏆 Subscription type with the highest churn rate
 
+License
+This repository does not currently include a LICENSE file. Until one is added, please treat the code as all-rights-reserved by the author and reach out before reusing it elsewhere. If you'd like others to freely use, modify, or distribute this project, consider adding the MIT License or another OSI-approved license.
 
+Author
+Chetan Patil GitHub: @chetan-patil17
